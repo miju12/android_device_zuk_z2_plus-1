@@ -19,3 +19,5 @@
 //libmmcamera_ppeiscore.so
 void _ZN7android13GraphicBufferC1EjjijjP13native_handleb() {}
 
+//camera.msm8996.so
+void _ZN7android20DisplayEventReceiverC1Ev() {}
